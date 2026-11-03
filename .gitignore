@@ -1,0 +1,7 @@
+# Godot cache and imports
+.godot/
+*.translation
+# OS junk
+.DS_Store
+Thumbs.db
+build/
